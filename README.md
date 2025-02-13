@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-92531.web.app](https://portfolio-92531.web.app)
 
