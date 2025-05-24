@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Vue.js**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Vue.js & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-92531.web.app](https://portfolio-92531.web.app)
 
